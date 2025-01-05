@@ -1,6 +1,6 @@
 # Hello! I'm Jaime Castaneda :slightly_smiling_face:
 
-I'm a computer science student at DePaul University. I'm concetrating in software development and minoring in data science, expected to graduate in March 2025. I'm enjoy working on full-stack development, as well as exploring data science topics like machine learning and data analysis. I'm seeking opportunities in software engineering, data science, data engineering, or frontend, backend, and full-stack development.
+I'm a computer science student at DePaul University. I'm concentrating on software development and minoring in data science, and I expect to graduate in March 2025. I enjoy working on full-stack development and exploring data science topics like machine learning and data analysis. I'm seeking opportunities in software engineering, data science, data engineering, front-end, back-end, and full-stack development.
 
 ## Skills
 
