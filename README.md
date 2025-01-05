@@ -1,26 +1,6 @@
 # Hello! I'm Jaime Castaneda :slightly_smiling_face:
 
-I'm a computer science student at DePaul University. I'm concetrating in software development and minoring in data science. I'm enjoy working on full-stack development, as well as exploring data science topics like machine learning and data analysis. I'm seeking opportunities in software engineering, data science, data engineering, or frontend, backend, and full-stack development.
-
-## Education
-
-### M.S. in Software Engineering at Depaul University
-- Expected Graduation: June 2026
-- GPA: 4.00/4.00
-- Concentration: Artificial Intelligence
-- Completed graduate-level coursework through a combined degree program.
-- Relevant Coursework: Data Analysis & Regression
-
-### B.S. in Computer Science at DePaul University
-- Expected Graduation: March 2025
-- GPA: 3.48/4.00
-- Concentration: Software Development
-- Minor: Data Science
-- Relevant Coursework: Foundations of Artificial Intelligence, Data Structures & Algorithms, Computer Systems, Object-Oriented Software Development, Distributed Systems, Software Projects, Database Systems, Software Testing, Concepts of Programming Languages, Automata Theory, Data Analysis
-
-### A.S. at McHenry County College
-- Graduated: August 2024 
-- Relevant Coursework: Programming Logic, JavaScript Programming
+I'm a computer science student at DePaul University. I'm concetrating in software development and minoring in data science, expected to graduate in March 2025. I'm enjoy working on full-stack development, as well as exploring data science topics like machine learning and data analysis. I'm seeking opportunities in software engineering, data science, data engineering, or frontend, backend, and full-stack development.
 
 ## Skills
 
@@ -85,11 +65,8 @@ I'm a computer science student at DePaul University. I'm concetrating in softwar
 - Designed a stock trading system using object-oriented programming using design patterns like factory, flyweight, singleton, facade, and factory; utilizing Java, OOP, and GUI :chart_with_upwards_trend:
 
 ### NBA Points Analysis
-- Developed a model to accurately predict the points per game for NBA players. Conducted data exploration, data analysis, testing, and predictions; utilizing SAS
-and Linear Regression :basketball:
+- Developed a model to accurately predict the points per game for NBA players. Conducted data exploration, data analysis, testing, and predictions; utilizing SAS and Linear Regression :basketball:
 
-### Automated Movie Rating Bot
-- Collaborated with the Protiviti team to design and implement an automated bot to extract movie ratings from an Excel file; utilizing UiPath and Excel :movie_camera:
 
 
 ## Contact Information
